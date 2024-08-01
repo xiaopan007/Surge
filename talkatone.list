@@ -1,0 +1,6 @@
+DOMAIN-SUFFIX,tktn.at,extended-matching
+DOMAIN-SUFFIX,tktn.be,extended-matching
+DOMAIN-SUFFIX,talkatone.com,extended-matching
+IP-CIDR,50.117.27.024,no-resolve
+IP-CIDR,69.46.75.024,no-resolve
+IP-CIDR,205.164.56.024,no-resolve
